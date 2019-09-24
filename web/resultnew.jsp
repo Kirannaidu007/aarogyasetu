@@ -1,8 +1,4 @@
-<%-- 
-    Document   : resultnew
-    Created on : 15 Jun, 2018, 12:32:54 PM
-    Author     : AAKRITI
---%>
+
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <%@page import="java.util.*"%>
