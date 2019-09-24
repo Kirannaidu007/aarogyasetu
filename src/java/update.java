@@ -19,10 +19,6 @@ import javax.servlet.*;
 import org.json.*;
 import model.employee;
 import java.util.*;
-/**
- *
- * @author AAKRITI
- */
 
 public class update extends HttpServlet{
 
