@@ -10,10 +10,6 @@
  * and open the template in the editor.
  */
 
-/**
- *
- * @author AAKRITI
- */
 public class employee {
     public int empid;
     public String empcat;
