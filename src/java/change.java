@@ -14,10 +14,6 @@ import javax.servlet.http.*;
 import java.util.*;
 import model.employee;
 
-/**
- *
- * @author AAKRITI
- */
 public class change extends HttpServlet {
 
     /**
