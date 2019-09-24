@@ -18,10 +18,6 @@ import java.util.List;
 import javax.servlet.RequestDispatcher;
 import javax.servlet.http.HttpSession;
 
-/**
- *
- * @author AAKRITI
- */
 public class display extends HttpServlet {
 
     /**
