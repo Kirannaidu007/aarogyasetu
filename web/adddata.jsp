@@ -1,8 +1,4 @@
-<%-- 
-    Document   : adddata
-    Created on : 14 Jun, 2018, 1:42:52 PM
-    Author     : AAKRITI
---%>
+
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
