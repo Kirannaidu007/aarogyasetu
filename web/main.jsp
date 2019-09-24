@@ -1,8 +1,3 @@
-;<%-- 
-    Document   : main
-    Created on : 13 Jun, 2018, 1:19:48 PM
-    Author     : AAKRITI
---%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
